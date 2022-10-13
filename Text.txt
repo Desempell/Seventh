@@ -3,5 +3,5 @@ qwerty
 Third commit
 class User
 {
-
+   public string Login {get; set;}
 }
