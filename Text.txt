@@ -1,3 +1,7 @@
 Text for first commit
 qwerty
 Third commit
+class User
+{
+
+}
